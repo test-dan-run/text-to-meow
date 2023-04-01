@@ -1,0 +1,10 @@
+{"audio_filepath": "data/meow1.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow2.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow3.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow4.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow5.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow6.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow7.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow8.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow9.wav", "text": "meow", "weight": 1.0}
+{"audio_filepath": "data/meow10.wav", "text": "meow with bold", "weight": 0.01}
